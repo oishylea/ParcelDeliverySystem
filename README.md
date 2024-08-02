@@ -4,9 +4,11 @@ Application designed to streamline the process of delivering packages and parcel
 
 ---
 
-[Figma URL](https://www.figma.com/design/P8jyrFIEWiOjIgFbWKtc16/Parcel-Delivery-System?node-id=0-1&t=AZXZGNIbSgbs0BgL-1)
+Check out the [Figma URL](https://www.figma.com/design/P8jyrFIEWiOjIgFbWKtc16/Parcel-Delivery-System?node-id=0-1&t=AZXZGNIbSgbs0BgL-1)
 
-## Team members
+---
+
+### Team members 👩🏻‍💻
 1. Nik Zulaikhaa
 2. Nurul Erina
 3. Aliatul Izzah
